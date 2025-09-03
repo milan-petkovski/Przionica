@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=5c3b23&center=true&vCenter=true&width=800&lines=Przionica+website;Crafted+Coffee+Experience;Modern+E-commerce+Platform;Designed+for+Conversion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=7d5436&center=true&vCenter=true&width=800&lines=Przionica+website;Crafted+Coffee+Experience;Modern+E-commerce+Platform;Designed+for+Conversion" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://przionica.milanwebportal.com">
-    <img src="https://img.shields.io/badge/Visit-website-5c3b23?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+    <img src="https://img.shields.io/badge/Visit-website-7d5436?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
   </a>
 </p>
 
