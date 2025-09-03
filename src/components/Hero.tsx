@@ -31,7 +31,7 @@ const Hero = () => {
             <Link to="/jelovnik">Pogledajte jelovnik</Link>
           </Button>
           
-          <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-coffee-bean font-medium px-8 py-3 text-lg">
+          <Button asChild size="lg" className="bg-white text-coffee-bean hover:bg-coffee-light text-coffee-bean font-medium px-8 py-3 text-lg shadow-warm">
             <Link to="/o-nama">Naša priča</Link>
           </Button>
         </div>

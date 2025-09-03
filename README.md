@@ -1,73 +1,80 @@
-# Welcome to your Lovable project
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=5c3b23&center=true&vCenter=true&width=800&lines=Przionica+website;Crafted+Coffee+Experience;Modern+E-commerce+Platform;Designed+for+Conversion" alt="Typing SVG" />
+</p>
 
-## Project info
+<div align="center">
+  <img src="https://i.postimg.cc/3JxXsBZ5/Przionica.png" width="500px" alt="Przionica Screenshot">
+</div>  <br>
 
-**URL**: https://lovable.dev/projects/825f0ed6-dac7-401b-a92f-3e48a83ac5ba
+<p align="center">
+  <strong>Pržionica</strong> is a modern web portal created for coffee lovers and brands that want to tell their story.<br><br>
+  With a clean, minimalist design and an intuitive user interface, Pržionica combines elegant product presentation with a simple buying process. From animated transitions to a responsive layout that adapts to every device, every detail is optimized to engage visitors, provide them with enjoyment, and inspire them to make a purchase.<br><br>
+  ☕ Built with passion. Designed to inspire. Engineered to turn visitors into customers.
+</p>
 
-## How can I edit this code?
+<p align="center">
+  <a href="https://przionica.milanwebportal.com">
+    <img src="https://img.shields.io/badge/Visit-website-5c3b23?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  </a>
+</p>
 
-There are several ways of editing your application.
+<hr>
 
-**Use Lovable**
+## 🧊 Project Overview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/825f0ed6-dac7-401b-a92f-3e48a83ac5ba) and start prompting.
+| Key Detail       | Info                                             |
+|------------------|--------------------------------------------------|
+| **Project Name** | Pržionica                                        |
+| **Live URL**     | [przionica.milanwebportal.com](https://przionica.milanwebportal.com) |
+| **Type**         | AI-Powered                                       |
+| **Launch date**         | 3. September 2025.                                   |
+| **Author**       | [Milan Petkovski](https://milanwebportal.com)    |
 
-Changes made via Lovable will be committed automatically to this repo.
+<hr>
 
-**Use your preferred IDE**
+## 🚀 Technologies
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- `⚙️` TypeScript  
+- `💨` TailwindCSS  
+- `⚡` Vite  
+- `🧱` HTML5 / CSS3  
+- `🌐` Node.js  
+- `🧾` JSON 
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+<hr>
 
-Follow these steps:
+## 🎯 Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- `🛍️` Intuitive e-commerce interface  
+- `🖼️` Sophisticated product and page animations  
+- `📱` Fully responsive design, optimized for all devices  
+- `🧾` Functional contact form with instant feedback  
+- `⚡` Excellent optimization for speed and user experience  
+- `📜` Integrated blog for sharing stories and recipes  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+<hr>
 
-# Step 3: Install the necessary dependencies.
-npm i
+## ⚙️ Installation (Local)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+git clone https://github.com/Milan-petkovski/Przionica.git
+cd Przionica
+open index.html
 ```
 
-**Edit a file directly in GitHub**
+<hr>
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📄 License
 
-**Use GitHub Codespaces**
+**All files and design are the property of Milan Petkovski.**  
+The code is open for viewing but not allowed to be downloaded, modified, or used for commercial purposes without permission.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+<hr>
 
-## What technologies are used for this project?
+## ✉️ Contact
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/825f0ed6-dac7-401b-a92f-3e48a83ac5ba) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Have a project in mind or want to work together?  
+🌐 [milanwebportal.com](https://milanwebportal.com)  
+📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
+<br/>
+<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>

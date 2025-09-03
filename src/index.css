@@ -4,7 +4,21 @@
 
 /* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
 All colors MUST be HSL.
-*/
+*/::-webkit-scrollbar {
+  width: 5px; /* Širina skrolbara */
+  background-color: #f5f5f5; /* Boja pozadine skrolbara */
+}
+
+/* Definiše izgled "palca" ili "thumb-a", dela koji se pomera */
+::-webkit-scrollbar-thumb {
+  background-color: #5c3b23; /* Boja "palca" skrolbara */
+  border-radius: 5px; /* Zaobljeni uglovi */
+}
+
+/* Definiše izgled "palca" kada pređete mišem preko njega */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #7a523a;
+}
 
 @layer base {
   :root {
